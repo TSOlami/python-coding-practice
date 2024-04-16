@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
+        # Initialize a fast and slow pointer
         slow = 0
         
         for fast in range(len(nums)):
