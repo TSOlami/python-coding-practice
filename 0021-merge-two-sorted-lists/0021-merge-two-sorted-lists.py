@@ -15,6 +15,7 @@ class Solution(object):
 
         # Iterate through both lists and sort the values into the new array
         while list1 and list2:
+            # Add the least value to the list to be sorted
             if list1.val < list2.val:
                 current.next = list1
                 list1 = list1.next
