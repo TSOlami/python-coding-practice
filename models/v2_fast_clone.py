@@ -60,7 +60,7 @@ class Reward:
         return track_direction
 
 
-reward_object = Reward(verbose=True)
+reward_object = Reward()
 
 def reward_function(params):
     return reward_object.reward_function(params)
