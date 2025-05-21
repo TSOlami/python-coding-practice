@@ -3,12 +3,23 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        # Dump all elements from nums2 into the end of nums1
-        last1, last2 = len(nums1) - 1, len(nums2) - 1
+        # Set pointers
+        i = m - 1  # Last real element in nums1
+        j = n - 1  # Last element in nums2
+        k = m + n - 1  # End of nums1
 
-        for i in range(len(nums2)):
-            nums1[last1] = nums2[last2]
-            last1, last2  = last1 - 1, last2 - 1
+        # Merge from back
+        while i >= 0 and j >= 0:
+            if nums1[i] > nums2[j]:
+                nums1[k] = nums1[i]
+                i -= 1
+            else:
+                nums1[k] = nums2[j]
+                j -= 1
+            k -= 1
 
-        # Make sure new nums1 is sorted
-        nums1.sort()    # Will write logic for merge sort later
+        # If anything left in nums2, copy it
+        while j >= 0:
+            nums1[k] = nums2[j]
+            k -= 1
+            j -= 1
