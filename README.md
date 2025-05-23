@@ -8,19 +8,23 @@ Fun practice with python
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TSOlami/python-coding-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TSOlami/python-coding-practice/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/TSOlami/python-coding-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TSOlami/python-coding-practice/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/TSOlami/python-coding-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TSOlami/python-coding-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TSOlami/python-coding-practice/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/TSOlami/python-coding-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TSOlami/python-coding-practice/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/TSOlami/python-coding-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,4 +33,8 @@ Fun practice with python
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TSOlami/python-coding-practice/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/TSOlami/python-coding-practice/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
