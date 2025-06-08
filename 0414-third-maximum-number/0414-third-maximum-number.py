@@ -1,19 +1,19 @@
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
-        first = second = third = None
+        top_1 = top_2 = top_3 = None
 
         for num in nums:
-            if num == first or num == second or num == third:
+            if num == top_1 or num == top_2 or num == top_3:
                 continue
 
-            if first is None or num > first:
-                third = second
-                second = first
-                first = num
-            elif second is None or num > second:
-                third = second
-                second = num
-            elif third is None or num > third:
-                third = num
+            if top_1 is None or num > top_1:
+                top_3 = top_2
+                top_2 = top_1
+                top_1 = num
+            elif top_2 is None or num > top_2:
+                top_3 = top_2
+                top_2 = num
+            elif top_3 is None or num > top_3:
+                top_3 = num
 
-        return third if third is not None else first
+        return top_3 if top_3 is not None else top_1
