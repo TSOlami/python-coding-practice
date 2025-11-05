@@ -11,6 +11,7 @@ Fun practice with python
 | [0349-intersection-of-two-arrays](https://github.com/TSOlami/python-coding-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TSOlami/python-coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/TSOlami/python-coding-practice/tree/master/0414-third-maximum-number) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TSOlami/python-coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Fun practice with python
 | [0169-majority-element](https://github.com/TSOlami/python-coding-practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/TSOlami/python-coding-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TSOlami/python-coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TSOlami/python-coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,4 +46,12 @@ Fun practice with python
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/TSOlami/python-coding-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TSOlami/python-coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TSOlami/python-coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TSOlami/python-coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
